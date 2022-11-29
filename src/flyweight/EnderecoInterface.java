@@ -1,5 +1,5 @@
 package flyweight;
 
 public interface EnderecoInterface {
-    public void entrega(String cidade, String bairro);
+    public void entrega(Endereco endereco);
 }
